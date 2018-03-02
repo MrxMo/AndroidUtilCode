@@ -49,6 +49,8 @@ public class MainActivity extends BaseDrawerActivity {
 
         BarUtils.setStatusBarAlpha4Drawer(this, rootLayout, fakeStatusBar, 0, false);
         BarUtils.addMarginTopEqualStatusBarHeight(toolbar);
+
+//        test
     }
 
     @Override
